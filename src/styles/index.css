@@ -60,4 +60,10 @@ i:hover{
 em{
     color:red;
 }
-
+.strike {
+     text-decoration: line-through;
+    
+}
+.green {
+    color: green;
+}
