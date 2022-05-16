@@ -8,7 +8,7 @@
     display: block;
     margin-right: auto;
     margin-left: auto;
-    background-color:rgb(231, 213, 112);
+    background-color:rgb(22, 22, 21);
     height: 600px;
     width: 700px;
     margin-top: 50px;
@@ -20,7 +20,7 @@ h1{
     text-align: center;
     font-family: fantasy;
     font-size: 100px;
-    color: red;
+    color: rgb(11, 24, 204);
 }
 
 input{
@@ -29,20 +29,20 @@ input{
 }
 
 ul{
-    color: blue;
+    color: rgb(14, 223, 238);
     margin: 10px 25px;
 }
 
 .list{
     height: 35px;
     text-indent: 10px;
-    background-color: rgba(247, 236, 190, 0.4);
+    background-color: rgba(122, 50, 200, 0.4);
     border-style: groove;
     margin-top:5px;  
 }
 
 .list:hover{
-    color:rgb(93, 142, 185);
+    color:rgb(21, 162, 61);
     background-color: rgba(247, 236, 190, 0.7);
     font-weight: 600;
 }
@@ -53,7 +53,7 @@ i{
 }
 
 i:hover{
-    color: red;
+    color: rgb(15, 62, 230);
     cursor: grabbing;
 }
 
